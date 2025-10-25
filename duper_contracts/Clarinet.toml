@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = '.\.cache'
 requirements = []
+[contracts.file_pinning]
+path = 'contracts/file_pinning.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.minimum_deposit_wallet]
 path = 'contracts/minimum_deposit_wallet.clar'
 clarity_version = 2
