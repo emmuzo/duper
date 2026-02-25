@@ -25,6 +25,11 @@ path = 'contracts/minimum_deposit_wallet.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.owner_controlled]
+path = 'contracts/owner_controlled.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.storage_with_value_history]
 path = 'contracts/storage_with_value_history.clar'
 clarity_version = 2
