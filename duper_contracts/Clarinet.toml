@@ -10,6 +10,11 @@ path = 'contracts/blacklist_with_penalty_wallet.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.dispute_resolution]
+path = 'contracts/dispute_resolution.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.file_pinning]
 path = 'contracts/file_pinning.clar'
 clarity_version = 2
